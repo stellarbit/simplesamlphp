@@ -1,7 +1,7 @@
 {
   "name": "simplesamlphp",
   "main": "index.js",
-  "repository": "https://github.com/simplesamlphp/simplesamlphp",
+  "repository": "https://github.com/stellarbit/simplesamlphp",
   "author": "olimpiam",
   "license": "MIT",
   "scripts": {
